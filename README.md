@@ -1,6 +1,5 @@
 # PayPal-Payment-Integration
 PayPal Payment Integration with Java Spring Boot
-PayPal Payment Integration with Java Spring Boot
 
 This project demonstrates how to integrate PayPal payments into a Java Spring Boot application. 
 With this integration, you can securely accept payments from customers using PayPal's payment gateway services. 
