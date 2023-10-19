@@ -30,9 +30,6 @@ mvn spring-boot:run
 
 # Snapshots
 
-![image!](https://user-images.githubusercontent.com/20794436/276771300-61342e01-bcd4-449e-a082-f8cc7e926b81.png)
-
-
-![image!](https://user-images.githubusercontent.com/20794436/276771357-bffd1809-fca6-4ea7-bd44-d92c59c3e3a8.png)
-
 ![image!](https://github.com/davinderpandey/PayPal-Payment-Integration/assets/20794436/aeaf3889-9dae-4e42-81e9-87ad9d2bf90d)
+
+![image!](https://github.com/davinderpandey/PayPal-Payment-Integration/assets/20794436/a9b47a1f-a67f-4bfc-aaa3-f2f7e28af841)
