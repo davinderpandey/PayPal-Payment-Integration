@@ -29,3 +29,8 @@ Run the Spring Boot application.
 mvn spring-boot:run
 
 # Snapshots
+
+![image!](https://user-images.githubusercontent.com/20794436/276771300-61342e01-bcd4-449e-a082-f8cc7e926b81.png)
+
+
+![image!](https://user-images.githubusercontent.com/20794436/276771357-bffd1809-fca6-4ea7-bd44-d92c59c3e3a8.png)
