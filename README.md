@@ -12,8 +12,6 @@ To set up and run the project:
 
 Clone this repository to your local machine.
 
-git clone https://github.com/yourusername/paypal-spring-boot.git
-
 Import the project into your chosen IDE.
 
 Configure your database connection by updating the application.properties file with your database settings.
