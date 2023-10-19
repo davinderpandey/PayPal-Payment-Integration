@@ -34,3 +34,5 @@ mvn spring-boot:run
 
 
 ![image!](https://user-images.githubusercontent.com/20794436/276771357-bffd1809-fca6-4ea7-bd44-d92c59c3e3a8.png)
+
+![image!](https://github.com/davinderpandey/PayPal-Payment-Integration/assets/20794436/aeaf3889-9dae-4e42-81e9-87ad9d2bf90d)
