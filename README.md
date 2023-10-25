@@ -22,7 +22,9 @@ Configure PayPal API credentials by adding them to the application.properties fi
 Build the project using Maven.
 
 mvn clean install
+
 Run the Spring Boot application.
+
 mvn spring-boot:run
 
 # Snapshots
